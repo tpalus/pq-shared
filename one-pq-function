@@ -1,3 +1,1 @@
-[
-  NumberExp = (x as number) => Number.Exp(x)
-]
+let NumberExp = (x as number) => Number.Exp(x) in NumberExp
