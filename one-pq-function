@@ -1,1 +1,1 @@
-NumberExp = (x as number) => Number.Exp(x)
+NumberExp = (x as number) => Number.Exp(x);
